@@ -1,0 +1,29 @@
+{
+  "name": "wxpay-node",
+  "version": "1.0.0",
+  "description": "A node.js api for wechat pay . it is writen in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "wxpay-text",
+    "runner":"",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayrino/wxpay-node.git"
+  },
+  "keywords": [
+    "wechat",
+    "pay",
+    "npm",
+    "module",
+    "package",
+    "nodejs",
+    "node"
+  ],
+  "author": "Samon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayrino/wxpay-node/issues"
+  },
+  "homepage": "https://github.com/mayrino/wxpay-node#readme"
+}

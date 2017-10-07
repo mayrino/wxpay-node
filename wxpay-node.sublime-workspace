@@ -1,0 +1,2327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col-md-",
+				"col-md-offset-2"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"o",
+				"offset〔function〕"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"mai",
+				"margin-top"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"ti",
+				"title\t<title>"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"ov",
+				"ov-s\toverflow: scroll;"
+			],
+			[
+				"WID",
+				"width"
+			],
+			[
+				"OVER",
+				"overflow-x"
+			],
+			[
+				"total",
+				"totalQty"
+			],
+			[
+				"produ",
+				"productId"
+			],
+			[
+				"ch",
+				"changeQuantity"
+			],
+			[
+				"pull",
+				"pull-left"
+			],
+			[
+				"Mini",
+				"MiniCart〔variable〕"
+			],
+			[
+				"query",
+				"querystring〔variable〕"
+			],
+			[
+				"nodeT",
+				"nodeTxt"
+			],
+			[
+				"par",
+				"partials"
+			],
+			[
+				"reo",
+				"remove"
+			],
+			[
+				"sett",
+				"setTimeout〔function〕"
+			],
+			[
+				"repl",
+				"replaceWith"
+			],
+			[
+				"de",
+				"detach〔function〕"
+			],
+			[
+				"s",
+				"siblings〔function〕"
+			],
+			[
+				"show",
+				"showMiniCart"
+			],
+			[
+				"title",
+				"title\tAttr"
+			],
+			[
+				"titl",
+				"title\tAttr"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"hi",
+				"hidden-xs"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"np",
+				"nbsp\t&nbsp;"
+			],
+			[
+				"orv",
+				"overflow-y"
+			],
+			[
+				"sh",
+				"shopping"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"is",
+				"isLoggedIn"
+			],
+			[
+				"pas",
+				"passport〔variable〕"
+			],
+			[
+				"ini",
+				"initial"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"acce",
+				"accept-charset\tAttr"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"curr",
+				"currDoc"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"pr",
+				"prevProduct"
+			],
+			[
+				"rele",
+				"relative〔variable〕"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"rou",
+				"routes〔variable〕"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"valu",
+				"value1〔variable〕"
+			],
+			[
+				"vl",
+				"value2"
+			],
+			[
+				"page",
+				"pageCount"
+			],
+			[
+				"forea",
+				"foreach〔variable〕"
+			],
+			[
+				"sub",
+				"submitHandler"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"mou",
+				"mouseOut〔function〕"
+			],
+			[
+				"inner",
+				"innerTextForImg"
+			],
+			[
+				"before",
+				"beforeSubmit"
+			],
+			[
+				"insta",
+				"instanceof〔keyword〕"
+			],
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"mongo",
+				"mongoose〔variable〕"
+			],
+			[
+				"path",
+				"path.join();"
+			],
+			[
+				"process",
+				"process.cwd();"
+			],
+			[
+				"pro",
+				"process〔variable〕"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"r",
+				"round〔function〕"
+			],
+			[
+				"mon",
+				"mongoose〔variable〕"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"i",
+				"i18next-express-middleware"
+			],
+			[
+				"htt",
+				"http〔variable〕"
+			],
+			[
+				"os",
+				"os.tmpdir();"
+			],
+			[
+				"http",
+				"http://127.0.0.1:3000"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"b",
+				"Blueberry"
+			],
+			[
+				"console",
+				"console.info();"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"te",
+				"type"
+			],
+			[
+				"js",
+				"javascript"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"get",
+				"getdefaultlocale〔function〕"
+			],
+			[
+				"sublim",
+				"sublime_plugin"
+			],
+			[
+				"prin",
+				"print〔function〕"
+			],
+			[
+				"plu",
+				"plugin_path"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"working",
+				"working_dir"
+			],
+			[
+				"Node",
+				"nodejs"
+			],
+			[
+				"O",
+				"fs.constants.O_NOCTTY"
+			],
+			[
+				"btn",
+				"btn-link"
+			],
+			[
+				"text-t",
+				"text-decoration"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"gl",
+				"glyphicon-comment"
+			],
+			[
+				"gly",
+				"glyphicon-folder-close"
+			],
+			[
+				"g",
+				"glyphicon"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"backgrount",
+				"background-repeat"
+			],
+			[
+				"trans",
+				"translate3d"
+			],
+			[
+				"sca",
+				"scale3d()"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"scale",
+				"scale3d()"
+			],
+			[
+				"scal",
+				"scale3d()"
+			],
+			[
+				"tr",
+				"translate3d()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"product",
+				"ProductCarousel"
+			],
+			[
+				"direction",
+				"getPanelForDirection"
+			],
+			[
+				"getPanel",
+				"getPanelForDirection"
+			],
+			[
+				"cleae",
+				"clearInterval(timer);"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "run tools",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"MJHomer",
+					""
+				],
+				[
+					"MJHomer",
+					"running MJHomer"
+				],
+				[
+					"MJHomer",
+					"running Debug MJHomer"
+				]
+			],
+			[
+				"MJHomer",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run",
+					""
+				],
+				[
+					"Run",
+					"run MJHomer"
+				],
+				[
+					"Run",
+					"stop  MJHomer"
+				],
+				[
+					"Run",
+					"restart  MJHomer"
+				]
+			],
+			[
+				"Run",
+				"run MJHomer"
+			]
+		],
+		[
+			[
+				[
+					"Run",
+					""
+				],
+				[
+					"Run",
+					"running MJHomer"
+				],
+				[
+					"Run",
+					"running Debug MJHomer"
+				]
+			],
+			[
+				"Run",
+				"running MJHomer"
+			]
+		],
+		[
+			[
+				[
+					"debug MJHomer",
+					""
+				],
+				[
+					"debug MJHomer",
+					"running MJHomer"
+				]
+			],
+			[
+				"debug MJHomer",
+				"running MJHomer"
+			]
+		],
+		[
+			[
+				[
+					"run tools",
+					""
+				],
+				[
+					"run tools",
+					"running...."
+				],
+				[
+					"run tools",
+					"stoped...."
+				]
+			],
+			[
+				"run tools",
+				"running...."
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "runt",
+		"selected_items":
+		[
+			[
+				"runt",
+				"Build With: run tools - running...."
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"BracketHighlighter: Documentation"
+			],
+			[
+				"run",
+				"Build With: run tools - running...."
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ru",
+				"Build With: run tools - running...."
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"RUN",
+				"Build With: run tools - running...."
+			],
+			[
+				"set syntax",
+				"Set Syntax: HTML"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"gitsavv",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"git b",
+				"git: branch"
+			],
+			[
+				"git conf",
+				"Git: Open Local Config"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git com\t",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git pu",
+				"git: push (force)"
+			],
+			[
+				"git con",
+				"Git: Open Local Config"
+			],
+			[
+				"git in",
+				"git: init"
+			],
+			[
+				"git push",
+				"git: push"
+			],
+			[
+				"git reom",
+				"git: remote add"
+			],
+			[
+				"gitb",
+				"git: branch"
+			],
+			[
+				"git config",
+				"Git: Open Local Config"
+			],
+			[
+				"git rem",
+				"git: remote add"
+			],
+			[
+				"git congi",
+				"Git: Open Local Config"
+			],
+			[
+				"git r",
+				"git: remote add"
+			],
+			[
+				"git remote",
+				"github: set remote for integration"
+			],
+			[
+				"git:config",
+				"Git: Open Local Config"
+			],
+			[
+				"git:col",
+				"git: clone"
+			],
+			[
+				"gitr",
+				"git: remote add"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitsa",
+				"GitSavvy: help"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"Git: Init"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontrol in",
+				"Package Control: Install Package"
+			],
+			[
+				"package controli",
+				"Package Control: Install Package"
+			],
+			[
+				"node un",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"node ",
+				"Nodejs::NPM::Command"
+			],
+			[
+				"node in",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"node install",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"noun",
+				"Nodejs::User File Settings"
+			],
+			[
+				"node",
+				"Nodejs::NPM::Command"
+			],
+			[
+				"nodeun",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"no",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"sets",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss j",
+				"Set Syntax: JSON"
+			],
+			[
+				"sj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setj",
+				"Set Syntax: JSON"
+			],
+			[
+				"nodese\t",
+				"Nodejs::NPM::Search"
+			],
+			[
+				"set syntax:\t",
+				"Set Syntax: JSON"
+			],
+			[
+				"set ",
+				"Set Syntax: HTML"
+			],
+			[
+				"runn",
+				"Build With: run tools - running...."
+			],
+			[
+				"set sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				" set js",
+				"Set Syntax: JSON"
+			],
+			[
+				"setsyntax:n",
+				"Set Syntax: JSON"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"lin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Discover Packages"
+			],
+			[
+				"set j",
+				"Set Syntax: JSON"
+			],
+			[
+				"node search",
+				"Nodejs::NPM::Search"
+			],
+			[
+				"NODE",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"node s",
+				"Nodejs::NPM::Search"
+			],
+			[
+				"RUNT",
+				"Build With: run tools - running...."
+			],
+			[
+				"nodejs",
+				"Nodejs::NPM::Install"
+			],
+			[
+				" pc di",
+				"Package Control: Disable Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"stop",
+				"Build With: Run - stop  MJHomer"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"Run m",
+				"Build With: Run - run MJHomer"
+			],
+			[
+				"mj",
+				"Build With: Run - running MJHomer"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"ali",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package control di",
+				"Package Control: Discover Packages"
+			],
+			[
+				"linter du",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"lin no co",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"nodejs search ",
+				"Nodejs::NPM::Search"
+			],
+			[
+				"PACKAGE CONTROL",
+				"Package Control: Enable Package"
+			],
+			[
+				" ls unman",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"package control ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"pakcage control en",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: Disable Package"
+			],
+			[
+				"package c up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lint th",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"packcontrol ls",
+				"Package Control: List Packages"
+			],
+			[
+				"nodejs install",
+				"Nodejs::NPM::Install"
+			],
+			[
+				"nodejs search",
+				"Nodejs::NPM::Search"
+			],
+			[
+				"packagecontrol:insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: img"
+			],
+			[
+				"bh hight",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"sinppet",
+				"Snippet: html"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"theme ",
+				"SublimeLinter: Choose Tooltip Theme"
+			],
+			[
+				"packagecontro re",
+				"Package Control: Remove Package"
+			],
+			[
+				"bh",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"nodej",
+				"Nodejs::NPM::Search"
+			],
+			[
+				" bh sh",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"bh sho",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"bh sh",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				" bh  offs",
+				"BracketHighlighter: Find Matching Offscreen Bracket"
+			],
+			[
+				" bh ",
+				"BracketHighlighter: Toggle String Bracket Escape Mode"
+			],
+			[
+				" bg ",
+				"BracketHighlighter: Toggle String Bracket Escape Mode"
+			],
+			[
+				"packcon dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packcond",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packcontrol",
+				"Package Control: Enable Package"
+			],
+			[
+				"noj",
+				"Nodejs::NPM::Search"
+			],
+			[
+				"set syntax:p",
+				"Set Syntax: Python"
+			],
+			[
+				"synta",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"nodejss",
+				"Nodejs::NPM::Search"
+			],
+			[
+				"santi",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"pack control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packcontro",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"PACK IN",
+				"Package Control: Install Package"
+			],
+			[
+				"PACK RE",
+				"Package Control: Remove Package"
+			],
+			[
+				"PACK DI",
+				"Package Control: Disable Package"
+			],
+			[
+				"packageControl",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"subl",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"packagecontrol:",
+				"Package Control: Disable Package"
+			],
+			[
+				"packagecontrol:up",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"nodejs::b",
+				"Nodejs::Build Completions"
+			]
+		],
+		"width": 810.0
+	},
+	"console":
+	{
+		"height": 129.0,
+		"history":
+		[
+			"clear",
+			"b Rat",
+			"npm  --version",
+			"gtm --version",
+			"mkdir ",
+			"mkdir /?",
+			"mkdir/?",
+			"mddir shopping-cart",
+			"reload",
+			"import this",
+			"sublime.log_commands(True)",
+			"y",
+			"clean",
+			"subl -v",
+			"subl -h",
+			"-h",
+			"cle",
+			"clean",
+			"clear",
+			"subl -v",
+			"subl -h",
+			"subl --help",
+			"-h",
+			"subl -h",
+			"python",
+			"python -c 'import sys; print sys.stdout.encoding'",
+			"subl -v",
+			"subl ",
+			"subl.version()",
+			"subl --project",
+			"sulb --project",
+			"version()",
+			"subl",
+			"subl --porject",
+			"npm search grunt",
+			"subl.version()",
+			"getcwd()",
+			"os.getcwd()",
+			"npm --version",
+			"npm install jake",
+			"node",
+			"set debug=myapp1 & npm start",
+			"sublime.versiton()",
+			"sublime.help()",
+			"sublime.version()",
+			"sublime().version",
+			"subl --version",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"sublime.version()",
+			"sublime.vertion()",
+			"sublime.versiton()",
+			"Nodejs",
+			"nodejs",
+			"git clone https://github.com/victorporof/Sublime-HTMLPrettify.git %APPDATA%/Sublime\\ Text\\ 3/Packages/Sublime-HTMLPrettify ",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', ' ')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"taskkill /F /IM node.exe & node E:\\Node.js\\express\\myapp1\\routes\\test.js",
+			"import urllib.request,os; pf = 'PackageControl.sublime-package'; ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener(urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace('','%20')).read())",
+			"exit",
+			"view.settings().get('font_face')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/D/Node.js/wxpay-node"
+	],
+	"file_history":
+	[
+		"/D/Node.js/express/MJHomer/app.js",
+		"/D/Node.js/express/MJHomer/routes/user.js",
+		"/D/Node.js/express/MJHomer/routes/shop.js",
+		"/D/Node.js/express/MJHomer/public/javascripts/profile.js",
+		"/D/Node.js/express/MJHomer/routes/index.js",
+		"/D/Node.js/express/MJHomer/bin/www",
+		"/D/Node.js/express/MJHomer/public/stylesheets/checkout.css",
+		"/D/Node.js/express/MJHomer/public/stylesheets/layout.css",
+		"/D/Node.js/express/MJHomer/views/shop/checkout.hbs",
+		"/D/Node.js/express/MJHomer/public/stylesheets/profile.css",
+		"/D/Node.js/express/MJHomer/views/user/profile.hbs",
+		"/D/Node.js/express/MJHomer/models/order.js",
+		"/D/Node.js/express/MJHomer/models/user.js",
+		"/D/Node.js/express/MJHomer/public/javascripts/checkout.js",
+		"/D/Node.js/express/MJHomer/config/passport.js",
+		"/D/Node.js/express/MJHomer/views/partials/header.hbs",
+		"/D/Node.js/express/MJHomer/views/layouts/layout.hbs",
+		"/D/Node.js/express/MJHomer/public/javascripts/cart.js",
+		"/D/Node.js/express/MJHomer/package-lock.json",
+		"/D/Node.js/express/MJHomer/views/shop/cart.hbs",
+		"/D/Node.js/express/MJHomer/node_modules/express-handlebars/node_modules/handlebars/node_modules/optimist/node_modules/wordwrap/test/wrap.js",
+		"/D/Node.js/express/MJHomer/public/javascripts/index.js",
+		"/D/Node.js/express/MJHomer/config/detector.js",
+		"/D/Node.js/express/MJHomer/models/cart.js",
+		"/D/Node.js/express/MJHomer/locales/zh/translation.json",
+		"/D/Node.js/express/MJHomer/locales/en/translation.json",
+		"/D/Node.js/express/MJHomer/views/shop/garment.hbs",
+		"/D/Node.js/express/MJHomer/views/shop/detail.hbs",
+		"/D/Node.js/express/MJHomer/views/site/mapDemo.hbs",
+		"/D/Node.js/express/MJHomer/node_modules/localhost.daplie.me-certificates/lib/example.js",
+		"/D/Node.js/express/MJHomer/config/lex.js",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/node_modules/le-sni-auto/README.md",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/examples/simple.js",
+		"/C/Users/shuangmin/letsencrypt/etc/live/localhost.daplie.com/privkey.pem",
+		"/D/Node.js/express/MJHomer/lx.js",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/README.md",
+		"/C/Users/shuangmin/letsencrypt/etc/accounts/acme-staging.api.letsencrypt.org/directory/e0820d0f8709fefe2d54d5db5e7f7abb/private_key.json",
+		"/C/Users/shuangmin/letsencrypt/setup.cfg",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/node_modules/greenlock/index.js",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/node_modules/greenlock/README.md",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/node_modules/localhost.daplie.me-certificates/README.md",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/examples/force-renew.js",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/node_modules/le-store-certbot/README.md",
+		"/C/Users/shuangmin/letsencrypt/etc/accounts/acme-staging.api.letsencrypt.org/directory/c3eff21148cbde77688a3b614e7e8e12/private_key.json",
+		"/C/Users/shuangmin/letsencrypt/etc/live/localhost/privkey.pem",
+		"/D/Node.js/express/MJHomer/node_modules/greenlock-express/node_modules/greenlock/node_modules/le-acme-core/lib/get-certificate.js",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/D/Node.js/express/MJHomer/views/partials/footer.hbs",
+		"/D/Node.js/express/MJHomer/views/site/browse.hbs",
+		"/D/Node.js/express/MJHomer/views/partials/cartContent.hbs",
+		"/D/Node.js/express/MJHomer/views/shop/miniCart.hbs",
+		"/D/Node.js/express/MJHomer/views/site/aboutus.hbs",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/D/Node.js/express/MJHomer/models/question.js",
+		"/D/Node.js/express/MJHomer/views/site/customerCare.hbs",
+		"/D/Node.js/express/MJHomer/public/javascripts/customerCare.js",
+		"/D/Node.js/express/MJHomer/public/javascripts/validate.js",
+		"/D/Node.js/express/MJHomer/seed/faq-seed.js",
+		"/D/Node.js/express/MJHomer/models/faq.js",
+		"/D/Node.js/express/MJHomer/public/javascripts/validate_messages_zh.js",
+		"/D/Node.js/express/MJHomer/views/site/index.hbs",
+		"/D/Node.js/express/MJHomer/public/javascripts/browse.js",
+		"/D/Node.js/express/MJHomer/public/javascripts/detail.js",
+		"/D/Node.js/express/MJHomer/public/javascripts/product-carousel.js",
+		"/D/Node.js/express/MJHomer/.jshintrc",
+		"/D/Node.js/express/MJHomer/public/javascripts/garment.js",
+		"/D/Node.js/express/MJHomer/node_modules/express-paginate/index.js",
+		"/D/Node.js/express/MJHomer/node_modules/express-paginate/node_modules/lodash.clone/index.js",
+		"/D/Node.js/express/MJHomer/node_modules/lodash/_baseLodash.js",
+		"/D/Node.js/express/MJHomer/config/hbsHelper.js",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/D/Node.js/express/MJHomer/models/product.js",
+		"/D/Node.js/express/MJHomer/locales/zh/translation.missing.json",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/D/Node.js/express/MJHomer/views/partials/miniCartWidget.hbs",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Node.js/express/MJHomer/.git/config",
+		"/D/Node.js/express/MJHomer/README.md",
+		"/D/Node.js/express/MJHomer/github",
+		"/D/Node.js/express/MJHomer/github.pub",
+		"/C/Users/shuangmin/.gitconfig",
+		"/D/Node.js/express/MJHomer/MJHomer.sublime-project",
+		"/C/Users/shuangmin/.ssh/known_hosts",
+		"/C/Users/shuangmin/.bash_history",
+		"/C/Users/shuangmin/.ssh/id_rsa.pub",
+		"/C/Users/shuangmin/.ssh/id_rsa",
+		"/C/Program Files/Git/LICENSE.txt",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/gtm-sublime3-plugin/gtm.sublime-settings",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/Git/README.markdown",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/Node.js/express/MJHomer/build/config.gypi",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/windows-build-tools/README.md",
+		"/D/Node.js/express/MJHomer/node_modules/jsdom/README.md",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/node-gyp/README.md",
+		"/C/Program Files (x86)/MSBuild/Microsoft.Cpp/v4.0/V140/Platforms/x64/PlatformToolsets/v140/Toolset.targets",
+		"/C/Program Files (x86)/MSBuild/Microsoft.Cpp/v4.0/V140/Platforms/Win32/PlatformToolsets/v140/Toolset.targets",
+		"/D/Node.js/express/MJHomer/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp936.json",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/node-gyp/gyp/pylib/gyp/MSVSVersion.py",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/MSVSVersion.py",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/express/lib/application.js",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/express/lib/express.js",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/express-generator/package.json",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/node-gyp/bin/node-gyp.js",
+		"/C/Program Files/nodejs/node_modules/npm/README.md",
+		"/D/Node.js/express/MJHomer/package.json",
+		"/D/Node.js/express/MJHomer/node_modules/jsdom/lib/api.js",
+		"/C/Program Files/nodejs/node_modules/npm/bin/node-gyp-bin/node-gyp.cmd",
+		"/C/Program Files/nodejs/node_modules/npm/configure",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node-gyp.cmd",
+		"/C/Windows/Microsoft.NET/Framework/v4.0.30319/msbuild.exe.config",
+		"/C/Program Files/nodejs/node_modules/npm/node_modules/node-gyp/package.json",
+		"/D/Node.js/express/MJHomer/public/javascripts/user.js",
+		"/D/Node.js/express/MJHomer/node_modules/express-handlebars/node_modules/handlebars/dist/cjs/handlebars/helpers/helper-missing.js",
+		"/D/Node.js/express/MJHomer/node_modules/bcrypt/lib/binding/bcrypt_lib.node",
+		"/D/Node.js/express/MJHomer/views/partials/miniCart.hbs",
+		"/D/Node.js/express/MJHomer/views/user/signup.hbs",
+		"/D/Node.js/express/MJHomer/views/user/signin.hbs",
+		"/D/Node.js/express/MJHomer/node_modules/express-validator/lib/express_validator.js",
+		"/D/Node.js/express/MJHomer/node_modules/express-validator/node_modules/lodash/_LazyWrapper.js",
+		"/D/Node.js/express/MJHomer/node_modules/passport/lib/authenticator.js",
+		"/D/Node.js/express/MJHomer/node_modules/passport/lib/index.js",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/hotnode/javascript/hotloader.js",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/hotnode/package.json",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/hotnode/node_modules/watch/main.js",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/hotnode/javascript/hotnode.js",
+		"/C/Users/shuangmin/AppData/Roaming/npm/node_modules/hotnode/javascript/app.js",
+		"/C/Users/shuangmin/AppData/Roaming/Sublime Text 3/Packages/Nodejs/node_modules/.bin/uglifyjs"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 356.0,
+		"where_history":
+		[
+			"D:\\Node.js\\express\\MJHomer\\views",
+			"D:\\Node.js\\express\\MJHomer\\views\\layouts,D:\\Node.js\\express\\MJHomer\\views\\site",
+			"D:\\Node.js\\express\\MJHomer\\views\\layouts",
+			"D:\\Node.js\\express\\MJHomer\\public\\javascripts,D:\\Node.js\\express\\MJHomer\\views",
+			"D:\\Node.js\\express\\MJHomer\\public\\javascripts",
+			"D:\\Node.js\\express\\MJHomer\\bin,D:\\Node.js\\express\\MJHomer\\locales,D:\\Node.js\\express\\MJHomer\\models,D:\\Node.js\\express\\MJHomer\\public,D:\\Node.js\\express\\MJHomer\\routes,D:\\Node.js\\express\\MJHomer\\views",
+			"D:\\Node.js\\express\\MJHomer\\public",
+			"D:\\Node.js\\express\\MJHomer\\config,D:\\Node.js\\express\\MJHomer\\locales,D:\\Node.js\\express\\MJHomer\\models,D:\\Node.js\\express\\MJHomer\\routes,D:\\Node.js\\express\\MJHomer\\views",
+			"D:\\Node.js\\express\\MJHomer",
+			"D:\\Node.js\\express\\shopping-cart\\routes,D:\\Node.js\\express\\shopping-cart\\views,D:\\Node.js\\express\\shopping-cart\\views\\layouts,D:\\Node.js\\express\\shopping-cart\\views\\partials,D:\\Node.js\\express\\shopping-cart\\views\\shop,D:\\Node.js\\express\\MJHomer",
+			"D:\\Node.js\\express\\shopping-cart\\routes,D:\\Node.js\\express\\shopping-cart\\views",
+			"-*.txt,<current file>,<open folders>,-*.js,-*.hbs,D:\\Node.js\\express\\MJHomer",
+			"-*.txt,<current file>,<open folders>,-*.txt,D:\\Node.js\\express\\MJHomer",
+			"-*.txt,<current file>,<open folders>,-*.txt",
+			"-*.txt,<current file>,<open folders>",
+			"E:\\Node.js\\express\\myapp1\\public\\images",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mayrino-main-panel",
+			"md",
+			"\"",
+			"hint",
+			"mayrino-junbotron",
+			"</span>",
+			"affix",
+			"title",
+			"card-element",
+			"showCart",
+			"fade",
+			"Order",
+			"address",
+			"total",
+			"Node",
+			"node",
+			"\n                    ",
+			"node",
+			"/shop",
+			"/shop\n",
+			"/shop/\n",
+			");\n",
+			"userRoutes",
+			"required",
+			"express",
+			"skipping middleware",
+			" skipping middleware",
+			"no match, skipping middleware",
+			"homedir",
+			"ho",
+			"homedir",
+			"localhost",
+			"webrootPath",
+			"required",
+			"stripePay",
+			" \n",
+			"sign",
+			"20px",
+			"checkout-panel",
+			"creditPay",
+			"Settings",
+			"settings",
+			"Messages",
+			"messages",
+			"Profile",
+			"profile",
+			"Home",
+			"home",
+			"detail-main-img",
+			"btn-group",
+			"detail",
+			"modal-content",
+			".modal-content",
+			"data-herf",
+			"alert",
+			"aaaa",
+			"shop/cart",
+			"_url",
+			"lng",
+			"en",
+			"product",
+			"Product",
+			"products",
+			"subscribe",
+			"QuestionSchema",
+			"newSubscribe",
+			",  unique: true",
+			"showPrompt",
+			"form",
+			"email",
+			"selector",
+			"care-input",
+			"header",
+			"switch break",
+			"switch",
+			"break",
+			"use strict",
+			"strict",
+			"semi",
+			"interval",
+			"Interval",
+			"interval",
+			"Interval",
+			"interval",
+			"Interval",
+			"interval",
+			"images/product",
+			"image",
+			"quantity",
+			"dial",
+			"calc",
+			"mayrino-junbotron",
+			"modal",
+			"console",
+			"productId",
+			"this.item._id",
+			"item.id",
+			"id",
+			"open",
+			"body",
+			"datalist",
+			"up",
+			"pageCount",
+			"flash",
+			"totalPrice",
+			"nodeShow",
+			"$(\"#nodeEdit\").val()",
+			"cart-view-row",
+			"item-remove",
+			"bodyParser",
+			"item-remove",
+			"subtotal",
+			"redece",
+			"alert",
+			";",
+			"= ",
+			"var",
+			"shopping_cart",
+			"href",
+			".\n",
+			"nodeshowpanel",
+			"result",
+			"qty",
+			"ele",
+			"quatity",
+			"cartview",
+			"ime-mode",
+			"minus"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"/javascripts",
+			"/image",
+			"/fonts",
+			"",
+			"../",
+			"public/javascripts",
+			"public/images",
+			"public/stylesheets",
+			"public/images/",
+			"public/stylesheets/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										209,
+										210
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.curly"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										162,
+										163
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 439.0
+	},
+	"output.exec":
+	{
+		"height": 72.0
+	},
+	"output.find_results":
+	{
+		"height": 148.0
+	},
+	"output.git":
+	{
+		"height": 342.0
+	},
+	"output.nodejs":
+	{
+		"height": 103.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 46.0
+	},
+	"pinned_build_system": "run tools",
+	"project": "wxpay-node.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"user.js",
+				"routes\\user.js"
+			],
+			[
+				"layout",
+				"public\\stylesheets\\layout.css"
+			],
+			[
+				"checkou.c",
+				"public\\stylesheets\\checkout.css"
+			],
+			[
+				"checkout",
+				"views\\shop\\checkout.hbs"
+			],
+			[
+				"profile.css",
+				"public\\stylesheets\\profile.css"
+			],
+			[
+				"",
+				"public\\javascripts\\profile.js"
+			],
+			[
+				"checkou.css",
+				"public\\stylesheets\\checkout.css"
+			],
+			[
+				"profile.js",
+				"public\\javascripts\\profile.js"
+			],
+			[
+				"www",
+				"bin\\www"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"user",
+				"models\\user.js"
+			],
+			[
+				"shop.js",
+				"routes\\shop.js"
+			],
+			[
+				"cart.js",
+				"public\\javascripts\\cart.js"
+			],
+			[
+				"lay",
+				"views\\layouts\\layout.hbs"
+			],
+			[
+				"header.hbs",
+				"views\\partials\\header.hbs"
+			],
+			[
+				"layout.b",
+				"views\\layouts\\layout.hbs"
+			],
+			[
+				"checkout.hbs",
+				"views\\shop\\checkout.hbs"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"pass",
+				"config\\passport.js"
+			],
+			[
+				"www.js",
+				"node_modules\\express-handlebars\\node_modules\\handlebars\\node_modules\\optimist\\node_modules\\wordwrap\\test\\wrap.js"
+			],
+			[
+				"cart.hbs",
+				"views\\shop\\cart.hbs"
+			],
+			[
+				"shop",
+				"routes\\shop.js"
+			],
+			[
+				"de",
+				"config\\detector.js"
+			],
+			[
+				"ordr",
+				"models\\order.js"
+			],
+			[
+				"checkout.js",
+				"public\\javascripts\\checkout.js"
+			],
+			[
+				"layout.",
+				"views\\layouts\\layout.hbs"
+			],
+			[
+				"laout.css",
+				"public\\stylesheets\\layout.css"
+			],
+			[
+				"checkout.css",
+				"public\\stylesheets\\checkout.css"
+			],
+			[
+				"checkou.js",
+				"public\\javascripts\\checkout.js"
+			],
+			[
+				"check",
+				"views\\shop\\checkout.hbs"
+			],
+			[
+				"lex.js",
+				"config\\lex.js"
+			],
+			[
+				"lx.js",
+				"lx.js"
+			],
+			[
+				"get-certificate.js",
+				"node_modules\\greenlock-express\\node_modules\\greenlock\\node_modules\\le-acme-core\\lib\\get-certificate.js"
+			],
+			[
+				"layout.hbs",
+				"views\\layouts\\layout.hbs"
+			],
+			[
+				"detail.hbs",
+				"views\\shop\\detail.hbs"
+			],
+			[
+				"cart",
+				"views\\partials\\cartContent.hbs"
+			],
+			[
+				"minis",
+				"views\\shop\\miniCart.hbs"
+			],
+			[
+				"header",
+				"views\\partials\\header.hbs"
+			],
+			[
+				"detail",
+				"public\\javascripts\\detail.js"
+			],
+			[
+				"layout.css",
+				"public\\stylesheets\\layout.css"
+			],
+			[
+				"mini",
+				"views\\shop\\miniCart.hbs"
+			],
+			[
+				"cart.",
+				"public\\javascripts\\cart.js"
+			],
+			[
+				"detail.js",
+				"public\\javascripts\\detail.js"
+			],
+			[
+				"catcon",
+				"views\\partials\\cartContent.hbs"
+			],
+			[
+				"garment",
+				"views\\shop\\garment.hbs"
+			],
+			[
+				"la",
+				"public\\stylesheets\\layout.css"
+			],
+			[
+				"cartcon",
+				"views\\partials\\cartContent.hbs"
+			],
+			[
+				"index",
+				"routes\\index.js"
+			],
+			[
+				"minicart",
+				"views\\shop\\miniCart.hbs"
+			],
+			[
+				"garment.hbs",
+				"views\\shop\\garment.hbs"
+			],
+			[
+				"layou",
+				"public\\stylesheets\\layout.css"
+			],
+			[
+				"36",
+				"node_modules\\body-parser\\node_modules\\iconv-lite\\encodings\\tables\\cp936.json"
+			],
+			[
+				"index.bs",
+				"views\\site\\index.hbs"
+			],
+			[
+				"index.js",
+				"routes\\index.js"
+			],
+			[
+				"indesx",
+				"routes\\index.js"
+			],
+			[
+				"garm",
+				"views\\shop\\garment.hbs"
+			],
+			[
+				"session",
+				"node_modules\\i18next-express-middleware\\lib\\languageLookups\\session.js"
+			],
+			[
+				"34",
+				"node_modules\\mongoose\\node_modules\\mongodb\\node_modules\\mongodb-core\\test34.js"
+			],
+			[
+				"product-s",
+				"seed\\product-seed.js"
+			],
+			[
+				"promise",
+				"seed\\promise.js"
+			],
+			[
+				"index.hbs",
+				"views\\site\\index.hbs"
+			],
+			[
+				"produ",
+				"models\\product.js"
+			],
+			[
+				"product",
+				"models\\product.js"
+			],
+			[
+				"pro",
+				"models\\product.js"
+			],
+			[
+				"va",
+				"public\\javascripts\\validate.js"
+			],
+			[
+				"hea",
+				"views\\partials\\header.hbs"
+			],
+			[
+				"tran",
+				"locales\\zh\\translation.json"
+			],
+			[
+				"tra",
+				"locales\\en\\translation.json"
+			],
+			[
+				"tr",
+				"locals\\en\\translation.js"
+			],
+			[
+				"header.html",
+				"views\\header.html"
+			],
+			[
+				"custom",
+				"public\\stylesheets\\css\\custom.css"
+			],
+			[
+				"test",
+				"routes\\test.js"
+			],
+			[
+				"test.js",
+				"routes\\test.js"
+			],
+			[
+				"bbb.html",
+				"views\\bbb.html"
+			],
+			[
+				"cus",
+				"public\\stylesheets\\css\\custom.css"
+			],
+			[
+				"nodejs.py",
+				"C:\\Users\\shuangmin\\AppData\\Roaming\\Sublime Text 3\\Packages\\Nodejs\\Nodejs.py"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"detail.html",
+				"views\\detail.html"
+			],
+			[
+				"collar.html",
+				"views\\collar.html"
+			],
+			[
+				"footer.html",
+				"views\\footer.html"
+			],
+			[
+				"footer",
+				"views\\footer.html"
+			],
+			[
+				"home",
+				"views\\home.html"
+			],
+			[
+				"login",
+				"views\\login.html"
+			],
+			[
+				"re",
+				"views\\reset.html"
+			],
+			[
+				"foot",
+				"views\\footer.html"
+			],
+			[
+				"product-carousel.",
+				"public\\stylesheets\\css\\product-carousel.css"
+			],
+			[
+				"validationengine.jquery",
+				"public\\stylesheets\\css\\validationEngine.jquery.css"
+			],
+			[
+				"customcol",
+				"public\\stylesheets\\css\\customCol.css"
+			],
+			[
+				"bootstr",
+				"public\\stylesheets\\css\\bootstrap.css"
+			],
+			[
+				"cuso",
+				"public\\stylesheets\\css\\custom.css"
+			],
+			[
+				"reset",
+				"views\\reset.html"
+			],
+			[
+				"logi",
+				"views\\login.html"
+			],
+			[
+				"in",
+				"routes\\index.js"
+			],
+			[
+				"ab",
+				"views\\about.html"
+			],
+			[
+				"db.j",
+				"routes\\db.js"
+			],
+			[
+				"cust",
+				"views\\customerCare.html"
+			],
+			[
+				"about",
+				"views\\about.html"
+			],
+			[
+				"z",
+				"public\\javascripts\\zoom_img.js"
+			],
+			[
+				"products",
+				"public\\javascripts\\products-carousel.js"
+			],
+			[
+				"head",
+				"views\\header.html"
+			],
+			[
+				"cen",
+				"views\\center.html"
+			],
+			[
+				"center",
+				"public\\stylesheets\\css\\center.css"
+			],
+			[
+				"foo",
+				"views\\footer.html"
+			],
+			[
+				"bootstra",
+				"public\\stylesheets\\css\\bootstrap.css"
+			],
+			[
+				"sty",
+				"public\\stylesheets\\style.css"
+			],
+			[
+				"boostrap.js",
+				"public\\javascripts\\bootstrap\\3.3.5\\bootstrap.js"
+			],
+			[
+				"boot",
+				"public\\stylesheets\\css\\bootstrap.css"
+			],
+			[
+				"lo",
+				"views\\login.html"
+			],
+			[
+				"inde",
+				"routes\\index.js"
+			],
+			[
+				"cu",
+				"public\\stylesheets\\css\\custom.css"
+			],
+			[
+				"collar",
+				"views\\collar.html"
+			],
+			[
+				"product-c",
+				"public\\javascripts\\products-carousel.js"
+			],
+			[
+				"boostr",
+				"public\\stylesheets\\css\\bootstrap.css"
+			],
+			[
+				"custo",
+				"public\\stylesheets\\css\\custom.css"
+			],
+			[
+				"boostra",
+				"public\\stylesheets\\css\\bootstrap.css"
+			],
+			[
+				"bootstrap.js",
+				"node_modules\\bootstrap\\dist\\js\\bootstrap.js"
+			],
+			[
+				"jquery",
+				"node_modules\\jquery\\dist\\jquery.js"
+			],
+			[
+				"product.",
+				"public\\javascripts\\product-carousel.js"
+			],
+			[
+				"product-carouse",
+				"public\\stylesheets\\css\\product-carousel.css"
+			],
+			[
+				"produc",
+				"views\\product.html"
+			],
+			[
+				"boostrap",
+				"node_modules\\bootstrap\\dist\\js\\bootstrap.js"
+			],
+			[
+				"bootstrap",
+				"public\\stylesheets\\css\\bootstrap.css"
+			],
+			[
+				"index.h",
+				"C:\\Users\\shuangmin\\Desktop\\jquery立体左右图片切换样式\\index.html"
+			],
+			[
+				"index.html",
+				"C:\\Users\\shuangmin\\Desktop\\jquery立体左右图片切换样式\\index.html"
+			],
+			[
+				"lanrenzhi",
+				"C:\\Users\\shuangmin\\Desktop\\jquery立体左右图片切换样式\\js\\lanrenzhijia.js"
+			],
+			[
+				"lan",
+				"C:\\Users\\shuangmin\\Desktop\\jquery立体左右图片切换样式\\css\\lanrenzhijia.css"
+			],
+			[
+				"index.ht",
+				"C:\\Users\\shuangmin\\Desktop\\jquery立体左右图片切换样式\\index.html"
+			],
+			[
+				"product-car",
+				"public\\javascripts\\product-carousel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\shuangmin\\Downloads\\java-sdk-v3\\java-skd-v3.sublime-workspace"
+			]
+		],
+		"width": 705.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1290.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
